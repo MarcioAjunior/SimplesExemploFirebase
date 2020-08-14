@@ -3,16 +3,8 @@ import 'firebase/database';
 import 'firebase/auth';
 import 'firebase/storage';
 
-    //Configurações do seu projeto
+    //Configurações do projeto firebase
     let firebaseConfig = {
-      apiKey: "AIzaSyAh2urSVc4KzbDMEwxS8pajDc92wNovdFA",
-      authDomain: "blog-9da73.firebaseapp.com",
-      databaseURL: "https://blog-9da73.firebaseio.com",
-      projectId: "blog-9da73",
-      storageBucket: "blog-9da73.appspot.com",
-      messagingSenderId: "950195647487",
-      appId: "1:950195647487:web:1d58960d52023c43726dca",
-      measurementId: "G-KLMQ39G6JR"
     };
 
 class Firebase{
